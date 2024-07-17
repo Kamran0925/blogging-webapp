@@ -1,6 +1,6 @@
 # Blog Application
 
-This is a simple blog application built with [Technology Stack].
+This is a simple blog application built with Ruby on Rails.
 
 ## Features
 
