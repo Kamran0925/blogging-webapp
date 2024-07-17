@@ -9,12 +9,6 @@ This is a simple blog application built with Ruby on Rails.
 - **Commenting**: Users can comment on blog posts.
 - **Responsive Design**: Ensures the application works well across devices.
 
-## Technologies Used
-
-- **Frontend**: [List frontend technologies/frameworks used]
-- **Backend**: [List backend technologies/frameworks used]
-- **Database**: [Database used, e.g., PostgreSQL, MySQL]
-- **Authentication**: [Authentication method used, e.g., JWT, session-based]
 
 ## Getting Started
 
