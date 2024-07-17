@@ -20,11 +20,6 @@ This is a simple blog application built with [Technology Stack].
 
 To get a local copy up and running, follow these steps:
 
-### Prerequisites
-
-- [List any prerequisites, e.g., Node.js, Ruby, Rails]
-- [Instructions to install any specific dependencies]
-
 ### Installation
 
 Clone the repository:
