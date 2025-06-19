@@ -18,5 +18,6 @@ To get a local copy up and running, follow these steps:
 
 Clone the repository:
    ```bash
-   git clone https://github.com/your_username/blog-app.git
+   git clone git clone https://github.com/your_username/blog-app.git
+   cd blog-app
    cd blog-app
